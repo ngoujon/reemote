@@ -1,0 +1,10 @@
+[package]
+name = "reemote-protocol"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+bincode = "1"
+tokio = { version = "1", features = ["io-util", "net"] }
+thiserror = "1"
