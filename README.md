@@ -13,6 +13,12 @@ on Windows and macOS:
 - **`reemote-client`** — the GUI you use to view and control a remote
   `reemote-host`.
 
+## Screenshot
+
+*Client connection screen, pre-filled with a made-up host name.*
+
+![reemote-client connection screen](docs/screenshots/client.png)
+
 ## How it works
 
 ```
